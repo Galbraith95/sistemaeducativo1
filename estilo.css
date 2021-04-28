@@ -1,0 +1,35 @@
+body { background-color:#EB984E ; 
+    
+    
+        background: url() no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
+
+
+
+#colorr{
+
+    background-color:#76D7C4 ; }
+
+
+
+#colorr{
+
+    width: 500px;
+    height: 300px;
+    border: 3px solid #73AD21;
+    opacity: 0.9;
+}
+
+#titulo{
+    width: 500px;
+    height: 45px;
+    border: 3px solid #73AD21;
+    opacity: 0.9;
+
+    background-color:#76D7C4 ; 
+
+}
